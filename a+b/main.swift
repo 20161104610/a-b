@@ -8,5 +8,9 @@
 
 import Foundation
 
-print("Hello, World!")
+var i:Int=10;
+var j:Int=5;
+print(i+j);
 
+var dict=["name":"hello","sex":"none"];
+print(dict["name"]);
